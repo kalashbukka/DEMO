@@ -1,3 +1,3 @@
 # DEMO
 This is my first Git Repository.<br>
-Author - Bukka Kalash
+Author - Bukka Kalash.
